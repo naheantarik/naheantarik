@@ -3,5 +3,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on UI Design
+- 🔭 I’m currently working on UI Design 
 - 🌱 I’m currently learning Python

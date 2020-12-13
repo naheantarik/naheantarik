@@ -1,7 +1,5 @@
 ### Hi there 👋 My Name Is Nahean Mahamud Tarik.
-Now I am a Student
-
-**naheantarik/naheantarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Now I am a Student
 
 Here are some ideas to get you started:
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Nahean Tarik 👋<h1>
 
 - 🔭 I’m currently working on UI Design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
  
 ### Connect with me:
  

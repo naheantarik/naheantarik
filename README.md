@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nahean_tarik" target="blank"><img src="https://img.shields.io/twitter/follow/nahean_tarik?logo=twitter&style=for-the-badge" alt="nahean_tarik" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **naheantarik@gmail.com**
 

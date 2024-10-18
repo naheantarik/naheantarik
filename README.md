@@ -2,7 +2,7 @@
 
 <h5 align="left">Frontend :</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
 <h5 align="left">Backend :</h5>
 

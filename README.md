@@ -6,7 +6,7 @@
 
 <h5 align="left">Backend :</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,python,nextjs)](https://skillicons.dev)
 
 <h5 align="left">Database :</h5>
 

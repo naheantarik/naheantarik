@@ -8,6 +8,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
 
+<h5 align="left">Open Source :</h5>
+
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+
 <h5 align="left">Database :</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)

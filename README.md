@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
 
-<h5 align="left">Open Source :</h5
+<h5 align="left">Open Source :</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 
